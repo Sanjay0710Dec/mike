@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sanjay
-- 👀 I’m interested in hacking,dsa,development
+- 👀 I’m interested in dsa,development
 - 🌱 I’m currently learning dsa & mern
 
 <!---
