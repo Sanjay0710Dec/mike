@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sanjay
+- 👋 Hi, I’m mike
 - 👀 I’m interested in dsa,development
 - 🌱 I’m currently learning dsa & mern
 
