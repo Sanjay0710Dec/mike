@@ -1,4 +1,4 @@
-- 👋 Hi, I’m mike
+- 👋 Hi, I’m sanjay (mechanical graduate)
 - 👀 I’m interested in dsa,development
 - 🌱 I’m currently learning dsa & mern
 
